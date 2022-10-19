@@ -11,7 +11,7 @@ Nesse objetivo do projeto a programar um cartão simples em CSS.
 | :fire: Desafio     | [Cartão Pessoal em CSS](#)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://j.gifs.com/pZ64Ly.gif#vitrinedev)
+![](#vitrinedev)
 
 ## Detalhes do projeto
 

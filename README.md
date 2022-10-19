@@ -10,7 +10,11 @@ Nesse objetivo do projeto a programar um cartão simples em CSS.
 | :rocket: URL         | [Link do Cartão Online](https://jonathanmesquita.github.io/cartao_mesquita/)
 | :fire: Desafio     | [Cartão Pessoal em CSS](#)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+
+## Preview
+
+![](https://github.com/jonathanmesquita/cartao_mesquita/blob/main/modelo_start.PNG#vitrinedev)
+
 ![](<img alt="Logo do projeto" src="./cartao_mesquita.png#vitrinedev"/>)
 
 ## Detalhes do projeto

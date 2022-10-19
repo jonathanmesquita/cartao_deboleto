@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Cartão boleto em CSS
 
 Rápida descrição do objetivo de fazer esse projeto
 

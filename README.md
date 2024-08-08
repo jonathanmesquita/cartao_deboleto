@@ -13,7 +13,7 @@ Nesse objetivo do projeto a programar um cartão simples em CSS.
 
 ## Preview
 
-![](https://github.com/jonathanmesquita/cartao_mesquita/blob/main/modelo_start.PNG#vitrinedev)
+![](https://github.com/jonathanmesquita/cartao_mesquita/blob/main/jonathan_carta_gif_01.gif#vitrinedev)
 
 ![](<img alt="Logo do projeto" src="./cartao_mesquita.png#vitrinedev"/>)
 
